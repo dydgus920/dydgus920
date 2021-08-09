@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Yonh
+- 👋 Hi, I’m Yong
 - 👀 I’m interested in Frontend Dev
 - 🌱 I’m currently learning React, scss, styled components
 - 💞️ I’m looking to collaborate on ...
